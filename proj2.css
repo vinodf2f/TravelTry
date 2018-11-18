@@ -1,0 +1,61 @@
+
+#carouselc
+				{
+					margin-top:20px;
+					margin-left:60px;
+				}
+#login
+				{
+					position:absolute;
+					z-index:1000;
+					margin-left:80%;
+				margin-top:150px;
+				}
+#imgpexel
+				{
+					height:400px;
+					width: 100%;
+					margin-top:70px ;
+					z-index:-999;
+				}
+#myform
+				{
+					margin-top: 30px;
+					height:500px;
+				}
+#bdc
+				{
+					margin-top: 40px;
+					background: black;
+					height: 200px;
+				}
+#searchbox
+				{
+					margin-right: 30px;
+				}
+@media screen and (max-width: 479px)
+			{
+					.navbar-header
+					{
+						height:10px; 
+					}
+     
+			#imgpexel
+				  {
+				   max-height:200px;
+				  }
+			}
+#travel-images
+				{
+					width:30%;
+					height:232px;
+					
+				}
+#travel-images img
+				{
+					
+					margin:2px;
+					border:1px black;
+					border-radius:20px;	
+				}
+
